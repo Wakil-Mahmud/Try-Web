@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+    color: gray;
+}
+
+h1{
+    font-style: italic;
+    color: black;
+    font-family: sans-serif;
+    
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+p{
+    font-size: larger;
+    text-align: justify;
+}
+.para-2{
+    color: gray;
+}
+.class{
+    font-family: Arial, Helvetica, sans-serif; 
+
+}
+#for-color{
+    color: gray;
+}
